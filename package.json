@@ -1,0 +1,20 @@
+{
+  "name": "to-dolist-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kushal",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "parcel": "^2.10.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
